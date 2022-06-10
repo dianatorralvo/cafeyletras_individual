@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cafeyletras_individual/static/css/main.100701c3.css",
+    "main.css": "/cafeyletras_individual/static/css/main.7290bdd0.css",
     "main.js": "/cafeyletras_individual/static/js/main.3fe67576.js",
     "static/media/Group 100.svg": "/cafeyletras_individual/static/media/Group 100.23e9d4719ee3fcc3efe0704ef71f400e.svg",
     "static/media/smoothie-de-café-.jpg": "/cafeyletras_individual/static/media/smoothie-de-café-.c909d94fd9fac6bf1a52.jpg",
@@ -69,11 +69,11 @@
     "index.html": "/cafeyletras_individual/index.html",
     "static/media/Mask group.svg": "/cafeyletras_individual/static/media/Mask group.b7205992645c44b5f23d43f858a04510.svg",
     "static/media/Mask group (1).svg": "/cafeyletras_individual/static/media/Mask group (1).34afe78f2e908005100ba55dc57bbcba.svg",
-    "main.100701c3.css.map": "/cafeyletras_individual/static/css/main.100701c3.css.map",
+    "main.7290bdd0.css.map": "/cafeyletras_individual/static/css/main.7290bdd0.css.map",
     "main.3fe67576.js.map": "/cafeyletras_individual/static/js/main.3fe67576.js.map"
   },
   "entrypoints": [
-    "static/css/main.100701c3.css",
+    "static/css/main.7290bdd0.css",
     "static/js/main.3fe67576.js"
   ]
 }
